@@ -11,10 +11,10 @@
 php artisan btc:price
 
 ## added classes
-app/Console/Commands/bitcoinPrice.php
+<p>app/Console/Commands/bitcoinPrice.php</p>
 
-app/Btc/BitcointParse.php
-app/Btc/BtcPush.php
+<p>app/Btc/BitcointParse.php</p>
+<p>app/Btc/BtcPush.php</p>
 
 ## License
 
